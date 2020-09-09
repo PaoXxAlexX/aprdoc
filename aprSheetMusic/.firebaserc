@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apr163": {
+      "hosting": {
+        "aprSheetMusic": [
+          "apr163"
+        ]
+      }
+    }
+  }
+}
